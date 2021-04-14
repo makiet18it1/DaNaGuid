@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442324640815",
+    "firebase_url": "https://dng2-7e50a.firebaseio.com",
+    "project_id": "dng2-7e50a",
+    "storage_bucket": "dng2-7e50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442324640815:android:53daeb4d78063b84aa92da",
+        "android_client_info": {
+          "package_name": "com.sict.maianhkiet.dng2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442324640815-ef52scgji6o6ijp2srll26mm3knhjgc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4f5w8YuGGotTRbs2ggQc8DpMS1ExQW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442324640815-ef52scgji6o6ijp2srll26mm3knhjgc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
